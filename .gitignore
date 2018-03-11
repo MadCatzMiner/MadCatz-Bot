@@ -1,6 +1,6 @@
-*.i
-*.ii
-*.gpu
-*.ptx
-*.cubin
-*.fatbin
+Bin/*
+Stats/*
+Logs/*
+*.rar
+*.7z
+*.zip

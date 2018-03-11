@@ -1,0 +1,1 @@
+powershell -version 5.0 -noexit -executionpolicy bypass -windowstyle maximized -command "&.\MadCatz.ps1 -StatsInterval 1 -Workername %computername% -Currency THB -interval 900 -Delay 1 -Wallet 34Qh9LfzaZoxPSwaUzWY9V3Z8n5mLusWQk -Location US -PoolName ahashpool -Type nvidia -Algorithm x17,blake2s,neoscrypt,Lyra2RE2,phi,Nist5,tribus,skein,hsr,xevan,timetravel,bitcore -Donate 20
